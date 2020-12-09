@@ -1,4 +1,4 @@
-#This is code to test the temporal transferability (or predictive power) of Inter-Regional Supply-side Input-Output (ISIO) models
+#This is a code to test the temporal transferability (or predictive power) of Inter-Regional Supply-side Input-Output (ISIO) models
 #for the Saskatchewan River Basin in Canada under changing climatic conditions, and to study the structural changes in 
 #the economy of this river basin by analyzing the technical coefficients of the conventional (or Leontief) Input-Output (IO) models.
 #*********************************************************************************************************************************
@@ -10,7 +10,7 @@
 #https://doi.org/10.1016/j.ecolecon.2019.106532
 #*********************************************************************************************************************************
 
-#For developing the ISIO and IO models the below data are required to be downloaded from the provided links:
+#For developing the ISIO and IO models the following data are required to be downloaded from the provided links:
 
 #Download Supply "V" and Use "U" tables from the Statistics Canada website for Alberta (AB), 
 #Saskatchewan (SK), and Manitoba (MB) for the year that you want to make the model for, in csv format from the link below:
