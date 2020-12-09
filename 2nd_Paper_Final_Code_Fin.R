@@ -4,7 +4,7 @@
 #*********************************************************************************************************************************
 #The code is developed by Leila Eamen. Contact: leila.eamen@usask.ca
 #*********************************************************************************************************************************
-#For the methodology and theoretical information on developing ISIO models and conventiona IO models please see:
+#For the methodology and theoretical information on developing ISIO models and conventional IO models please see:
 #Eamen, L., Brouwer, R., & Razavi, S. (2020). The Economic Impacts of Water Supply Restrictions due to Climate 
 #and Policy Change: A Transboundary River Basin Supply-side Input-Output Analysis. Ecological Economics, (172), 106532.
 #https://doi.org/10.1016/j.ecolecon.2019.106532
@@ -17,14 +17,15 @@
 #Statistics Canada. (2019). Catalogue 15-602-X. Supply and Use Tables, Summary Level. Ottawa, Canada.
 #https://www150.statcan.gc.ca/n1/pub/15-602-x/15-602-x2017001-eng.htm.
 
-#Download the labor force coefficients for the major regions in each province: 
+#The labor force and population data are downloaded from the link below:
+#Statistics Canada. (2017). Catalogue 98-316-X2016001. 2016 Census of Population. Ottawa, Canada.
+#https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/download-telecharger/comp/page_dl-tc.cfm?Lang=E.
+
+#The labor force and population coefficients for the major regions in each province can be extracted from Eamen et al. (2020) 
+#at : https://doi.org/10.1016/j.ecolecon.2019.106532.
 #The major regions are: North Saskatchewan in Alberta (AB-NSRB), South Saskatchewan in Alberta (AB-SSRB), 
 #North Saskatchewan in Saskatchewan (SK-NSRB), South Saskatchewan in Saskatchewan (SK-SSRB),
 #Saskatchewan River in Saskatchewan (SK-SRB), and  Saskatchewan River in Manitoba (MB-SRB), in csv format:
-
-#The labor force data is downloaded from the link below:
-#Statistics Canada. (2017). Catalogue 98-316-X2016001. 2016 Census of Population. Ottawa, Canada.
-#https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/download-telecharger/comp/page_dl-tc.cfm?Lang=E.
 
 #Download the Inter Sub-basin Trade Flow from the Statistics Canada website, in csv format from the link below:
 #Statistics Canada. (2018a). Table 36-10-0455-01: Experimental domestic trade flow estimates within 
